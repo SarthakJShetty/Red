@@ -52,3 +52,20 @@
 1. While writing elements to the [```pandas```](https://pandas.pydata.org/) dataframe an element maybe right-shifting a column(s). This error may lead to a [```pandas```](https://pandas.pydata.org/) memory warning, considreing entities of multiple datatypes occupy the same column.
 
 2. Some species are not indexed by the [IUCN Red List](https://www.iucnredlist.org/ "IUCN Red List"). This may cause the [```start.sh```](https://github.com/SarthakJShetty/Red/blob/master/start.sh) script to loop while trying to collect the species ```URL``` from the searchpage.
+
+## Citation:
+
+If you decide to use client, scraper or cleaner for your project, or as a means to interface with the IUCN database, please cite our [2021 Conservation Letters](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12815)!
+
+```
+@article{mendiratta2021mammal,
+  title={Mammal and bird species ranges overlap with armed conflicts and associated conservation threats},
+  author={Mendiratta, Uttara and Osuri, Anand M and Shetty, Sarthak J and Harihar, Abishek},
+  journal={Conservation Letters},
+  volume={14},
+  number={5},
+  pages={e12815},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+```
