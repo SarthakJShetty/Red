@@ -55,7 +55,7 @@
 
 ## Citation:
 
-If you decide to use client, scraper or cleaner for your project, or as a means to interface with the IUCN database, please cite our [2021 Conservation Letters](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12815)!
+If you decide to use our client, scraper or cleaner for your project, or as a means to interface with the IUCN database, please cite our [2021 Conservation Letters](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12815) paper!
 
 ```
 @article{mendiratta2021mammal,
